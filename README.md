@@ -12,8 +12,8 @@ Descomprima el archivo, instale Node.js y Google Chrome, y abra `CREAR-ACCESO-DI
 
 ## Celular
 
-La aplicación de Android sigue en el archivo APK de la versión 0.25:
+La aplicación de Android versión 0.35:
 
-https://github.com/LEONARDOORDUZ/Leo-DJ-Mixer-Descargas/releases/tag/v0.25-laboratorio
+https://github.com/LEONARDOORDUZ/Leo-DJ-Mixer-Descargas/releases/download/v0.35-laboratorio/Leo-DJ-Mixer-V0.35.apk
 
-Instálelo sin desinstalar la versión anterior.
+Instálelo sin desinstalar la versión anterior. En el celular, Buscar actualizaciones encuentra esta versión.
